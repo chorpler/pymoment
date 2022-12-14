@@ -1,1 +1,5 @@
 .tox/
+.idea
+build
+dist
+*.egg-info
